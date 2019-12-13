@@ -1,2 +1,5 @@
 <strong></strong> % bold
 <em></em> %italicize
+<ul></ul> unordered list
+<li> list
+<ol> ordered list
